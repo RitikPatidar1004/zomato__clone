@@ -9,6 +9,7 @@ box-sizing: border-box;
     background-color: #7e94bdea;
     overflow-x: hidden;
     transition: 0.5s;
+    padding : 50px;
 }
 
 .navbar{
